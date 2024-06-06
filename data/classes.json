@@ -1,0 +1,21 @@
+{
+  "p5.Color": false,
+  "p5.Camera": false,
+  "p5.TypedDict": false,
+  "p5.NumberDict": false,
+  "p5.Element": false,
+  "p5.MediaElement": false,
+  "p5.File": false,
+  "p5.Image": false,
+  "p5.XML": false,
+  "p5.PrintWriter": false,
+  "p5.Table": false,
+  "p5.TableRow": false,
+  "p5.Vector": false,
+  "p5.Graphics": false,
+  "drawingContext": false,
+  "p5.Framebuffer": false,
+  "p5.Geometry": false,
+  "disableFriendlyErrors": false,
+  "p5.Font": false
+}

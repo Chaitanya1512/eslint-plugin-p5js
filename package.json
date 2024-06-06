@@ -1,0 +1,32 @@
+{
+  "name": "@chaitanyathakur/eslint-plugin-p5js",
+  "version": "1.0.1",
+  "description": "ESLint plugin that defines p5.js globals",
+  "license": "ISC",
+  "main": "index.js",
+  "author": "Chaitanya <thakur.chaitanya25@gmail.com>",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "peerDependencies": {
+    "eslint": "^9.4.0"
+  },
+  "scripts": {},
+  "files": [
+    "index.js",
+    "./data/functions.json",
+    "./data/variables.json",
+    "./data/classes.json",
+    "./data/implicitfunctions.json"
+  ],
+  "keywords": [
+    "globals",
+    "global",
+    "identifiers",
+    "variables",
+    "vars",
+    "p5js",
+    "eslint"
+  ]
+}

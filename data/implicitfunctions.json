@@ -1,0 +1,22 @@
+{
+  "preload": true,
+  "setup": true,
+  "draw": true,
+  "windowResized": true,
+  "deviceMoved": true,
+  "deviceTurned": true,
+  "deviceShaken": true,
+  "keyTyped": true,
+  "keyPressed": true,
+  "keyReleased": true,
+  "mouseMoved": true,
+  "mouseDragged": true,
+  "mousePressed": true,
+  "mouseReleased": true,
+  "mouseClicked": true,
+  "doubleClicked": true,
+  "mouseWheel": true,
+  "touchStarted": true,
+  "touchMoved": true,
+  "touchEnded": true
+}
