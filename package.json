@@ -1,10 +1,14 @@
 {
   "name": "@chaitanyathakur/eslint-plugin-p5js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint plugin that defines p5.js globals",
   "license": "ISC",
   "main": "index.js",
   "author": "Chaitanya <thakur.chaitanya25@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chaitanya1512/eslint-plugin-p5js.git"
+  },
   "sideEffects": false,
   "engines": {
     "node": ">=18"
