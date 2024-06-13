@@ -1,6 +1,6 @@
 {
   "name": "@chaitanyathakur/eslint-plugin-p5js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint plugin that defines p5.js globals",
   "license": "ISC",
   "main": "index.js",
@@ -19,10 +19,11 @@
   "scripts": {},
   "files": [
     "index.js",
-    "./data/functions.json",
-    "./data/variables.json",
-    "./data/classes.json",
-    "./data/implicitfunctions.json"
+    "./data/constants.json",
+    "./data/constructors.json",
+    "./data/implicitfunctions.json",
+    "./data/methods.json",
+    "./data/properties.json"
   ],
   "keywords": [
     "globals",

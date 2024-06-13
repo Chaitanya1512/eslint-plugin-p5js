@@ -1,10 +1,13 @@
 "use strict";
 
-const functions = require("./data/functions.json");
-const variables = require("./data/variables.json");
-const classes = require("./data/classes.json");
-const implicit = [require("./data/implicitfunctions.json")].join("|");
+const methods = require("./data/methods.json");
+const constants = require("./data/constants.json");
+const constructors = require("./data/constructors.json");
+const properties = require("./data/properties.json");
+const implicit = Object.keys(require("./data/implicitfunctions.json")).join(
+  "|"
+);
 
-const p5globals = { ...functions, ...variables, ...classes };
+const p5globals = { ...methods, ...constants, ...constructors, ...properties };
 
 module.exports = { p5globals, implicit };
