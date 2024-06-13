@@ -446,5 +446,6 @@
   "reduction": false,
   "record": false,
   "noteAttack": false,
-  "gridOutout": false
+  "gridOutout": false,
+  "width": false
 }

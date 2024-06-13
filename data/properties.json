@@ -47,7 +47,7 @@
   "musicalTimeMode": false,
   "maxIterations": false,
   "WaveShaperNode": false,
-  "attack ": false,
+  "attack": false,
   "decay": false,
   "sustain": false,
   "release": false,
@@ -71,5 +71,11 @@
   "convolverNode": false,
   "sequence": false,
   "compressor": false,
-  "AudioVoice": false
+  "AudioVoice": false,
+  "width": false,
+  "height": false,
+  "mouseX": false,
+  "mouseY": false,
+  "pixels": false,
+  "key": false
 }
