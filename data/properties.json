@@ -76,6 +76,8 @@
   "height": false,
   "mouseX": false,
   "mouseY": false,
+  "pmouseX": false,
+  "pmouseY": false,
   "pixels": false,
   "key": false
 }

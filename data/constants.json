@@ -30,6 +30,8 @@
   "RIGHT_ARROW": false,
   "TAB": false,
   "UP_ARROW": false,
+  "LEFT": false,
+  "RIGHT": false,
   "ADD": false,
   "DARKEST": false,
   "OVERLAY": false,
